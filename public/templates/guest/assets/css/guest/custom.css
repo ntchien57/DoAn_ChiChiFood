@@ -1,0 +1,59 @@
+.text-black {
+    color: #0000;
+}
+
+.btn-login {
+    color: #fff;
+    background-color: #ff007d;
+    padding: 3% 20%;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.login-title {
+    color: #ff007d;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-left: 35%;
+}
+
+.icon-required {
+    font-size: 14px;
+    color: red;
+    padding-bottom: 90%;
+}
+
+.icon-fb {
+    width: 10%;
+}
+
+.icon-gg {
+    width: 15%;
+}
+
+.bdr-25 {
+    border-radius: 25px;
+}
+
+.display-none {
+    display: none;
+}
+
+small {
+    color: red;
+}
+
+.dropdown-item {
+    padding: 7px 0 !important;
+    color: #000 !important;
+}
+
+.dropdown-item:hover {
+    color: #c12525 !important;
+}
+
+.name-customer:hover {
+    cursor: pointer;
+}
